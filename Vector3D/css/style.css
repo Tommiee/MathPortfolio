@@ -1,0 +1,17 @@
+body{
+  background-color: aliceblue;
+  padding: 0;
+  margin: 0;
+}
+head{
+  margin: 0;
+  padding: 0;
+}
+
+#canvas{
+  display: block;
+  margin: 0;
+  padding: 0;
+  border: 2px black solid;
+  background-color: lightblue;
+}
